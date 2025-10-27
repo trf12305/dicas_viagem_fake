@@ -1,0 +1,29 @@
+{
+    "tips": [
+        {
+            "id": 1,
+            "titulo": "Planeje com antecedência",
+            "descricao": "Pesquise transporte e hospedagem com antecedência para conseguir melhores preços e horários."
+        },
+        {
+            "id": 2,
+            "titulo": "Leve cópias dos documentos",
+            "descricao": "Tenha cópias digitais (no e-mail) e físicas dos documentos importantes."
+        },
+        {
+            "id": 3,
+            "titulo": "Use bagagem leve",
+            "descricao": "Evite excesso de malas: bagagem leve economiza tempo e dinheiro em transporte."
+        },
+        {
+            "id": 4,
+            "titulo": "Tenha um plano B",
+            "descricao": "Verifique rotas alternativas e horários de ônibus para imprevistos."
+        },
+        {
+            "id": 5,
+            "titulo": "Segurança",
+            "descricao": "Guarde objetos de valor em compartimentos seguros e evite exibir itens caros em público."
+        }
+    ]
+}
